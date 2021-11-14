@@ -12,6 +12,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - php artisan db:seed
 - php artisan serve
 - kunjungi http://127.0.0.1:8000/transaction/
+- Public demo : https://test2.sinergisolusiweb.web.id/transaction
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
